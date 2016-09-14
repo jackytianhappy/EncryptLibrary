@@ -1,7 +1,7 @@
 # RSA
 
 
-
+###生成iOS端和后端秘钥文件的方法<br>
 生成模长为2048bit的私钥<br>
 openssl genrsa -out private_key.pem 2048<br>
 生成certification require file<br>
